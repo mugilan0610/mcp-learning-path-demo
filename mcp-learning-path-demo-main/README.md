@@ -41,10 +41,11 @@ Before running the application, you'll need to set up:
 
 To start the application, run:
 ```bash
-streamlit run app.py
+streamlit run app.py  and [streamlit run mcp-learning-path-demo-main/app.py]
 ```
 
 The application will be available at `http://localhost:8501` by default.
+
 
 ## Usage
 
